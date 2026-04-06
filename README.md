@@ -1,13 +1,6 @@
 
 
-![Demo](doc/demo.png)
-## 🎬 Demo
 
-![Interfaz](doc/streamlit.png)
-
-## 🔌 API
-
-![API](doc/api.png)
 
 # 🎬 Sistema de Recomendación de Películas con IA
 
